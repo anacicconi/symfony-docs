@@ -116,7 +116,7 @@ fragment needed to render every part of a form:
   
 .. caution::
 
-  If you use the Bootstrap form theme and want render the parts of a checkbox field
+  If you use the Bootstrap form theme and want to render the parts of a checkbox field
   individually, do not use {{ form_label() }}. Otherwise, it will render nothing.
 
 In the next section you will learn how to customize a theme by overriding
